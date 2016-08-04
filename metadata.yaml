@@ -1,0 +1,28 @@
+_repo: The-Golf-Course-Mystery_1495
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steele, Chester K.
+    gutenberg_agent_id: '652'
+    url: http://www.gutenberg.org/2009/agents/652
+    wikipedia: http://en.wikipedia.org/wiki/Chester_K._Steele
+description: Can't decide whether you should hit the links or curl up with a can't-put-it-down
+  book? Kill two birds with one stone and read The Golf Course Mystery, a tightly
+  plotted whodunit from the golden era of the genre that is sure to satisfy golf lovers,
+  mystery buffs, and everyone in between.
+gutenberg_issued: '1998-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Golf stories'
+- !lcsh 'Golf courses -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- GITenberg
+title: The Golf Course Mystery
+url: http://www.gutenberg.org/ebooks/1495
